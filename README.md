@@ -25,7 +25,7 @@ Département de la Haute-Savoie · 2025–2026
 
 - Application mobile Flutter livrée en production
 - Interface d'administration Vue.js + API REST
-- Infrastructure : Docker, K8s, GitLab CI, Grafana/InfluxDB
+- Infrastructure : Docker, K8s, GitLab CI, Grafana/InfluxDB, Garage (S3)
 - Coordination d'une équipe de 3 personnes
 
 ---
@@ -34,7 +34,6 @@ Département de la Haute-Savoie · 2025–2026
 
 | Projet | Stack | Description |
 |--------|-------|-------------|
-| [MasterDashboard](https://github.com/MathisFPN/MasterDashboard) | Next.js · Supabase · Gemini | Dashboard de suivi de recherche d'alternance avec scan Gmail automatique |
 | [Pokémon Trainer Manager](https://github.com/MathisFPN/Poke-mon-Trainer-Manager) | Swift | Application iOS de gestion de collection Pokémon |
 | [Portfolio](https://mathisfpn.github.io) | TypeScript | Portfolio et vitrine de projets |
 
@@ -42,7 +41,7 @@ Département de la Haute-Savoie · 2025–2026
 
 ## Langues
 
-Français natif · Anglais B2 (Cambridge) · Espagnol A2
+Français natif · Anglais B2 (Cambridge) · Espagnol A2 · Japonais A1
 
 ---
 
