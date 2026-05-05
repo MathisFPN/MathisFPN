@@ -70,9 +70,7 @@ Département de la Haute-Savoie · 2025–2026
 ## Stats GitHub
 
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathisFPN&layout=compact&theme=github_dark&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathisFPN&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top Langs" />
 </div>
 
 ---
